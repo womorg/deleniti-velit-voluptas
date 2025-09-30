@@ -1,10 +1,10 @@
 {
   "name": "@womorg/deleniti-velit-voluptas",
-  "version": "9.37.354",
+  "version": "9.38.354",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/accusantium-doloribus-quod": "^1.0.0",
